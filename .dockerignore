@@ -1,0 +1,4 @@
+env/
+jenkins_home/
+Jenkinsfile
+README.md
